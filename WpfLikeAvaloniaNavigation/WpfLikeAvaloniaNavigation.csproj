@@ -4,15 +4,23 @@
         <Nullable>enable</Nullable>
 
         <PackageId>WpfLikeAvaloniaNavigation</PackageId>
-        <Version>1.0.2</Version>
+        <Version>1.0.2.1</Version>
         <Authors>Net2Fox</Authors>
         <Description>Simple WPF-like navigation for Avalonia</Description>
         <PackageTags>avalonia;navigation;wpf;frame</PackageTags>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Copyright>Copyright (c) Net2Fox 2026</Copyright>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageProjectUrl>https://github.com/Net2Fox/WpfLikeAvaloniaNavigation</PackageProjectUrl>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/Net2Fox/WpfLikeAvaloniaNavigation</RepositoryUrl>
+        
     </PropertyGroup>
 
     <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath=""/>
+        <None Include="..\LICENSE" Pack="true" PackagePath=""/>
         <PackageReference Include="Avalonia" Version="11.3.9"/>
     </ItemGroup>
 </Project>
