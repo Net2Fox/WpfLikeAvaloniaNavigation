@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLikeAvaloniaNavigation", "WpfLikeAvaloniaNavigation\WpfLikeAvaloniaNavigation.csproj", "{DEBE4864-F377-44D2-A25B-9279FC1FA0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBE4864-F377-44D2-A25B-9279FC1FA0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBE4864-F377-44D2-A25B-9279FC1FA0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBE4864-F377-44D2-A25B-9279FC1FA0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBE4864-F377-44D2-A25B-9279FC1FA0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

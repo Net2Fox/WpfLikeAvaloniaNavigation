@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+
+        <PackageId>WpfLikeAvaloniaNavigation</PackageId>
+        <Version>1.0.2</Version>
+        <Authors>Net2Fox</Authors>
+        <Description>Simple WPF-like navigation for Avalonia</Description>
+        <PackageTags>avalonia;navigation;wpf;frame</PackageTags>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Avalonia" Version="11.3.9"/>
+    </ItemGroup>
+</Project>
