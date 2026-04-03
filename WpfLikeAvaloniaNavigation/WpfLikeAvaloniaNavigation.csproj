@@ -4,7 +4,7 @@
         <Nullable>enable</Nullable>
 
         <PackageId>WpfLikeAvaloniaNavigation</PackageId>
-        <Version>1.0.2.1</Version>
+        <Version>1.0.3</Version>
         <Authors>Net2Fox</Authors>
         <Description>Simple WPF-like navigation for Avalonia</Description>
         <PackageTags>avalonia;navigation;wpf;frame</PackageTags>
