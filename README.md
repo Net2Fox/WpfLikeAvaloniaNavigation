@@ -1,4 +1,6 @@
-﻿# WpfLikeAvaloniaNavigation
+# Avalonia 12 now has its own page-based navigation system, so there is no longer any point in using this library
+ 
+ # WpfLikeAvaloniaNavigation
 Simple WPF-like navigation for Avalonia
 
 ## Usage
